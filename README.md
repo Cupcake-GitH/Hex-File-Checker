@@ -1,2 +1,2 @@
 # Hex-File-Checker
-Support check .Hex file syntaxes and logics
+Support checking .Hex file syntaxes and logics
